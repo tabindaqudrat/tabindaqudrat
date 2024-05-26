@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tabinda Qudrat</h1>
 <h3 align="center">An Ardent Data Scientist from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="file:///C:/Users/TABINDA%20QUDRAT/Downloads/DALL%C2%B7E%202024-05-26%2022.29.17%20-%20A%20girl%20sitting%20at%20a%20desk%20with%20a%20laptop,%20typing%20code.%20The%20setting%20is%20a%20cozy%20room%20with%20a%20modern%20aesthetic,%20featuring%20a%20soft%20glow%20from%20a%20desk%20lamp.%20The%20g.webp">
+<img align="right" alt="coding" width="400" src="img.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabindaqudrat&label=Profile%20views&color=0e75b6&style=flat" alt="tabindaqudrat" /> </p>
 
