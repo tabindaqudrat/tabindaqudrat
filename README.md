@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tabinda Qudrat</h1>
 <h3 align="center">An Ardent Data Scientist from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="img.webp">
+<img align="right" alt="coding" width="300" src="img.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabindaqudrat&label=Profile%20views&color=0e75b6&style=flat" alt="tabindaqudrat" /> </p>
 
